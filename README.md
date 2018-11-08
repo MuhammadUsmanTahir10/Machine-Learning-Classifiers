@@ -12,24 +12,22 @@ The algorithm of Decision Tree Classifier in simple words is as follows:
 
 While building our decision tree classifier, we can improve its accuracy by tuning it with different parameters. But this tuning should be done carefully since by doing this our algorithm can overfit on our training data & ultimately it will build bad generalization model.
 The code for Decision Tree Classifier implemented using ScikitLearn is attached with in this repository & a sample dataset of Fruits is used for training purpose.
-
 For understanding Decision Tree Classifiers in details refer to the following link of documentation:
-http://kudoflow.com/3x6g
+https://scikit-learn.org/stable/modules/tree.html
 
 # Naive Bayes Classifier:
 The Naive Bayesian classifier is based on Bayes’ theorem with the independence assumptions between predictors. A Naive Bayesian model is easy to build, with no complicated iterative parameter estimation which makes it particularly useful for very large datasets. Despite its simplicity, the Naive Bayesian classifier often does surprisingly well and is widely used because it often outperforms more sophisticated classification methods. It is actually based on Bayes rule that is based on conditional probabilities. For understanding it in detail refer to the following link:
-http://kudoflow.com/3w8j
+http://www.statsoft.com/textbook/naive-bayes-classifier
 
 The Fruit data set is tested with Naive Bayes Classifer based on Gaussian normalization as it is suitable for our simple data set, and python file is attached with this repository.
 
 For Learning more about different Naive Bayes Classifiers kindly refer the following link:
-http://kudoflow.com/3wX0u 
+https://scikit-learn.org/stable/modules/naive_bayes.html
 
 # Support Vector Machines:
 A Support Vector Machine (SVM) is a discriminative classifier formally defined by a separating hyperplane. In other words, given labeled training data (supervised learning), the algorithm outputs an optimal hyperplane which categorizes new examples. In two dimentional space this hyperplane is a line dividing a plane in two parts where in each class lay in either side.
 For more detailed understanding you can refer following links:
-http://kudoflow.com/4Eo4
-http://kudoflow.com/4ErD
+https://scikit-learn.org/stable/modules/svm.html & https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72
 
 # Conclusion:
 All classifeirs have there own specifications and advantages but for this fruit dataset that is a very simple dataset, DTC can be used. But for more comlpex and detailed dataset other two algorithms can be used.
