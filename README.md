@@ -1,4 +1,4 @@
-# Machine-Learning-Classifiers:
+# Machine Learning Classifiers:
 In this project we will implement different Machine Learning Classifiers on a small training data set and predict the output based on different classification algorithms.
 The classification technique is a systematic approach to build classification models from an input dat set. For example, decision tree classifiers, rule-based classifiers, neural networks, support vector machines, and naive Bayes classifiers are different technique to solve a classification problem. Each technique adopts a learning algorithm to identify a model that best fits the relationshio between the attribute set and class label of the input data. Therefore, a key objective of the learning algorithm is to build predictive model that accurately predict the class labels of previously unkonw records.
 
